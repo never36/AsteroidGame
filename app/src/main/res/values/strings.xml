@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">AsteroidGame</string>
+    <string name="action_settings">Settings</string>
+    <string name="scores">Scores</string>
+    <string name="playGame">Play Game</string>
+    <string name="difficulty">Difficulty</string>
+    <string name="mygame">Fun Asteroid</string>
+    <string name="buttonPress">This is takes you to the game.</string>
+    <string name="defaulttext">This is the default text</string>
+    <string name="instructions">Instructions</string>
+    <string name="title_activity_instruction">Instruction</string>
+</resources>
